@@ -10,19 +10,19 @@
 
 2.1.1 แก้ไขไฟล์ `SevenSegment.h` โดยเพิ่ม code  ตามตัวอย่าง (บรรทัดที่ 34 - 35)
 
-![alt text](image-5.png)
+![alt text](./Pictures/image-5.png)
 
 2.1.2 แก้ไขไฟล์ `SevenSegment.cpp` โดยแก้ code ในฟังก์ชัน  `DisplayNum0()` ถึง `DisplayNum9()` โดยการลบบรรทัด `common.OFF();` และ `common.ON();` ออกไป ตามตัวอย่าง (ลบในทุกฟังก์ชัน)
 
-![alt text](image-6.png)
+![alt text](./Pictures/image-6.png)
 
 2.1.3 เพิ่มฟังก์ชัน `DisplayOff()` และ `DisplayOn()` ในไฟล์ `SevenSegment.cpp` ไว้ด้านล่างฟังก์ชัน `DisplayNumber(int number)` โดยมีคำสั่งภายในฟังก์ชันดังรูป 
 
-![alt text](image-8.png)
+![alt text](./Pictures/image-8.png)
 
 2.1.4 แก้ไขไฟล์ main.cpp ในโปรเจค sevenseg_component ดังรูป
 
-![alt text](image-9.png)
+![alt text](./Pictures/image-9.png)
 
 2.1.5 ลบไฟล์ dependencies.lock เพื่อล้าง cache ในการ build มิฉะนั้น ESP-IDF จะใช้ source code เดิมที่ cache ไว้
 

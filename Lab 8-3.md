@@ -10,7 +10,7 @@
 
 การดึงหลักสิบออกจากตัวนับ ทำได้โดยการหารด้วย 10 `(counter / 10)`
  
-![alt text](image-10.png)
+![alt text](./Pictures/image-10.png)
 
 3.3 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 15 บน seven segment
 

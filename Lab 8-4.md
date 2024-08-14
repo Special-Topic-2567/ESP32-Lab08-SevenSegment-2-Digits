@@ -56,7 +56,7 @@ extern "C" void app_main(void)
 
 4.2.1 ใน app_main() ให้เปลี่ยน tskIDLE_PRIORITY เป็นตัวเลข 10
 
-![alt text](image-11.png)
+![alt text](./Pictures/image-11.png)
 
 
 4.2.2 ทดสอบ build และรันโปรแกรม 

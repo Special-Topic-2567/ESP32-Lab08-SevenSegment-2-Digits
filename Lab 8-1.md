@@ -4,20 +4,20 @@
 ## 1.สร้าง ESP-IDF project ชื่อ  SevenSegment2Digits
 
 1.1.1  เปลียนชื่อไฟล์ main.c เป็น main.cpp และแก้ไขฟังก์ชัน main โดยการเพิ่ม `extern "C"` ไว้หน้าชื่อ `app_main()` ดังนี้ 
-![alt text](image-4.png)
+![alt text](./Pictures/image-4.png)
 
 1.1.2  ตรวจสอบให้แน่ในว่าในไฟล์ CMakeLists.txt ได้เปลี่ยนขื่อ main.c เป็น main.cpp แล้ว
 
-![alt text](image-1.png)
+![alt text](./Pictures/image-1.png)
 
 1.1.3 เพิ่มไฟล์ idf_component.yml ในโฟลเดอร์ main และแก้ไขเนื้อหาในไฟล์นั้น
-![alt text](image-2.png)
+![alt text](./Pictures/image-2.png)
 
 เปลี่ยนชื่อ git repo และ path เป็นที่อยู่ตามที่นักศึกษา push ขึ้นไปไว้บน github
 
 1.1.4 Build โปรแกรม ควรจะสามารถ build ได้ถูกต้อง
 ตัว build ควรจะรายงาน dependencies  จำนวน 3 ตัว (idf version อาจจะแตกต่างกันไปตามที่นึกศึกษาได้ติดตั้งไว้บนเครื่อง)
-![alt text](image-3.png)
+![alt text](./Pictures/image-3.png)
 
 
 1.1.5 แก้ไขไฟล์ main.cpp เป็นดังนี้
