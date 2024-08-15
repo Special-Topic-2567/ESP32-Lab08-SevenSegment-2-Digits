@@ -60,6 +60,7 @@ extern "C" void app_main(void)
 
 
 4.2.2 ทดสอบ build และรันโปรแกรม 
+https://drive.google.com/file/d/1oW-qCWVAbRrua3U6_QNl6Tfy6juE4Plw/view?usp=sharing
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
 
@@ -126,5 +127,6 @@ extern "C" void app_main(void)
 ```
 
 4.3.2 ทดสอบ build และรันโปรแกรม 
+https://drive.google.com/file/d/1w40tslohuthae32S4Q-eLHi9j5-Yoatg/view?usp=sharing
 
 4.3.4 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
