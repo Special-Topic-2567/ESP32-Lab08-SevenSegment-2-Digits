@@ -85,7 +85,7 @@ while(1)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
-
+https://drive.google.com/file/d/1JW9trKeiUxShtVzojvr0xqRvEy5EqV2f/view?usp=drivesdk
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
@@ -117,3 +117,4 @@ build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
+https://drive.google.com/file/d/1iQVWWY3ArDakrmdHqLas7UL495h4zLzF/view?usp=drivesdk
