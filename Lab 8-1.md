@@ -119,3 +119,4 @@ build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
+https://youtube.com/shorts/QMvoTpA-HC4?feature=share
