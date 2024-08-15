@@ -16,4 +16,5 @@
 
 3.4 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
 
-
+### ต้องเป็นเลข 00 ถึง 99 ครับ
+### https://drive.google.com/file/d/1zwuH0PnwtntFoq2s9x5o5fOVvvKT_2ER/view?usp=sharing
