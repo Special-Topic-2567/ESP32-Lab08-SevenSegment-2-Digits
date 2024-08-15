@@ -30,3 +30,6 @@
 2.1.6 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 15 บน seven segment
 
 2.1.7 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
+
+
+![15](https://github.com/user-attachments/assets/8c8606ed-ed64-4c9f-9758-d35770e9bfb4)
