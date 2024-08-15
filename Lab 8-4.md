@@ -62,7 +62,7 @@ extern "C" void app_main(void)
 4.2.2 ทดสอบ build และรันโปรแกรม 
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
-
+https://drive.google.com/file/d/11SuZqlSze2fVgOK6z_yJ4wCr-KWh9Mvs/view?usp=drivesdk
 
 4.3 สร้าง task สำหรับนับตัวเลข
 
@@ -126,5 +126,6 @@ extern "C" void app_main(void)
 ```
 
 4.3.2 ทดสอบ build และรันโปรแกรม 
+https://drive.google.com/file/d/1ELRUR0WRIGQ8xnVFSNXpvc5-bomkyA8G/view?usp=drivesdk
 
 4.3.4 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
