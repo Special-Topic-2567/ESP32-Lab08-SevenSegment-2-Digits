@@ -86,6 +86,8 @@ build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
+https://youtube.com/shorts/tru74SvglqY?feature=share
+
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
