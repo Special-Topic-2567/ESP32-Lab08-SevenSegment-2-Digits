@@ -83,6 +83,7 @@ while(1)
 
 
 build, flash และ run โปรแกรม
+![0f093ba7-eb2e-4c9d-9b8a-d84ef8d71dd3](https://github.com/user-attachments/assets/abc80a71-654c-4404-aa6a-bc54b9947a6d)
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
@@ -114,6 +115,7 @@ extern "C" void app_main(void)
 ```
 
 build, flash และ run โปรแกรม
+![1a9bbbe3-6b25-4061-b8f9-c4718c054de7](https://github.com/user-attachments/assets/a7d7bbf4-3946-41ff-ad03-7036f6bb4ba4)
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
