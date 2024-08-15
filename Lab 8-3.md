@@ -15,6 +15,7 @@
 3.3 ทดสอบ build และรันโปรแกรม
 
 3.4 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
+
 3.5 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 [https://drive.google.com/file/d/1Ix9V4qVlsJiqif8fnqyDeL__VZ-WemIm/view?usp=sharing](https://drive.google.com/file/d/1lsYEic8l3QF07Yu8WVUNoOdjSDCULe-P/view?usp=sharing)
 
