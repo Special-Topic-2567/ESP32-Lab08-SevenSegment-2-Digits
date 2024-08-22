@@ -62,6 +62,8 @@ https://drive.google.com/file/d/1IZ85NytjUD3v9epLkKcK7nxX2EtGyV93/view?usp=shari
 4.2.2 ทดสอบ build และรันโปรแกรม 
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
+![image](https://github.com/user-attachments/assets/a17a4176-d27c-4db2-9b54-4536fed3184a)
+https://drive.google.com/file/d/10KSGOS0ipPCkB7Bk5ZI6tC0YWYTMhFL-/view?usp=sharing
 
 
 4.3 สร้าง task สำหรับนับตัวเลข
