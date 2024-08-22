@@ -132,6 +132,7 @@ build, flash และ run โปรแกรม
 https://vt.tiktok.com/ZS2jnjYW7/
 
 
+![image](https://github.com/user-attachments/assets/8452cda8-9d59-4d49-8328-1333fb0c95db)
 
 
 
