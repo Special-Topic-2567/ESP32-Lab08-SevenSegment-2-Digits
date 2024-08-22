@@ -50,6 +50,11 @@ extern "C" void app_main(void)
 ```
 4.2 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 00 บน seven segment
 
+
+https://drive.google.com/file/d/15nDw4SGddiGNXRCe8k7qkvVndXwCJ768/view
+
+
+
 จากการทดลองข้างบน พบว่าจอกระพริบ เนื่องจากเราสร้าง task ที่มีความสำคัญเป็น idle หมายความว่าจะแสดงผลเมื่อ CPU ว่างเท่านั้น
 
 เพื่อให้แสดงผลต่อเนื่อง เราต้องเพิ่มความสำคัญของ task ให้มากขึ้น 
@@ -128,3 +133,8 @@ extern "C" void app_main(void)
 4.3.2 ทดสอบ build และรันโปรแกรม 
 
 4.3.4 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
+
+
+https://drive.google.com/file/d/1PcWFKLCtxwOqF9yruzH1hVXDhK50ksV-/view
+
+
