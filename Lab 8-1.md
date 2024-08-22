@@ -87,6 +87,10 @@ build, flash และ run โปรแกรม
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
 
+https://drive.google.com/file/d/1Q3ttc83S2hnye_W0dCCgj9_0JgW7evxs/view
+
+
+
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
 ```cpp
@@ -116,4 +120,8 @@ extern "C" void app_main(void)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+
+
+https://drive.google.com/file/d/1KvMSPuJQPrX1X3TvtWGwrKGS5VksXzON/view
+
 
