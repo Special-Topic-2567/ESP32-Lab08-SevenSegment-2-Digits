@@ -13,7 +13,7 @@
 ![alt text](./Pictures/image-10.png)
 
 3.3 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 15 บน seven segment
-
+https://drive.google.com/file/d/1w5l2iZYw3aM7x97yNjtSv6U-u-4MQHBx/view?usp=sharing
 3.4 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
 
 
