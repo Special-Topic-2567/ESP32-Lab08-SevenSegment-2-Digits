@@ -128,7 +128,8 @@ build, flash และ run โปรแกรม
 ![image](https://github.com/user-attachments/assets/badc7013-cd46-42bd-b49f-b6741d3008ab)
 
 
-
+วิดิโอ
+https://vt.tiktok.com/ZS2jnjYW7/
 
 
 
