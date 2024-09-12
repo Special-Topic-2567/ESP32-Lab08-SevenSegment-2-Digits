@@ -60,6 +60,7 @@ extern "C" void app_main(void)
 
 
 4.2.2 ทดสอบ build และรันโปรแกรม 
+![ภาพ](https://github.com/user-attachments/assets/567a6df7-9d36-4b36-b964-c0e631592b53)
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
 
@@ -67,7 +68,6 @@ extern "C" void app_main(void)
 4.3 สร้าง task สำหรับนับตัวเลข
 
 4.3.1 แก้ code ใน main.cpp ดังนี้
-![ภาพ](https://github.com/user-attachments/assets/567a6df7-9d36-4b36-b964-c0e631592b53)
 
 ```cpp
 #include <stdio.h>
