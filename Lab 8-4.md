@@ -135,3 +135,6 @@ extern "C" void app_main(void)
 
 
 งาน https://github.com/AnchisaPhetnoi/8-1-Seven-Segment-2-Digits.git
+
+งาน
+https://github.com/AnchisaPhetnoi/Lab-07-Seven-segment-Component-develope.git
