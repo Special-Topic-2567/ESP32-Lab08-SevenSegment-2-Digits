@@ -30,3 +30,15 @@
 2.1.6 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 15 บน seven segment
 
 2.1.7 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
+
+![ภาพ](https://github.com/user-attachments/assets/ce4ce1ea-112c-473b-ba1b-5171b4323b0e)
+
+![454401146_1735418297289444_6365380662545733605_n](https://github.com/user-attachments/assets/57f76d29-354b-49bf-8382-5aac7f768e10)
+
+![457142789_402546326197063_2629919485519994194_n](https://github.com/user-attachments/assets/cb927b60-5c0f-46e4-a9fd-3d5645acf1c9)
+
+การแสดงเลข 1 และ 5 ตามลำดับบนเจ็ดเซ็กเมนต์ เนื่องจากโค้ดจะสลับไปยัง LED ตัวที่สองและกลับมาแสดงเลขที่กำหนดตามลำดับที่ระบุ
+
+เลข 1 จะแสดงที่ Seven-Segment Display ที่ 1 เป็นเวลา 1 วินาที
+เลข 5 จะแสดงที่ Seven-Segment Display ที่ 2 เป็นเวลา 1 วินาที
+
