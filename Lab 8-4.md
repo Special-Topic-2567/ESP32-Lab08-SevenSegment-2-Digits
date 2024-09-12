@@ -67,6 +67,7 @@ extern "C" void app_main(void)
 4.3 สร้าง task สำหรับนับตัวเลข
 
 4.3.1 แก้ code ใน main.cpp ดังนี้
+![ภาพ](https://github.com/user-attachments/assets/567a6df7-9d36-4b36-b964-c0e631592b53)
 
 ```cpp
 #include <stdio.h>
