@@ -32,6 +32,7 @@
 2.1.7 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
 
 ![ภาพ](https://github.com/user-attachments/assets/ce4ce1ea-112c-473b-ba1b-5171b4323b0e)
+![ภาพ](https://github.com/user-attachments/assets/76e321ba-69b3-485b-a28c-d18e5b9e1230)
 
 ![454401146_1735418297289444_6365380662545733605_n](https://github.com/user-attachments/assets/57f76d29-354b-49bf-8382-5aac7f768e10)
 
