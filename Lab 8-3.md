@@ -16,4 +16,5 @@
 
 3.4 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
 
+![ภาพ](https://github.com/user-attachments/assets/d813093f-4db3-44a5-a877-ff7c8e7a773c)
 
