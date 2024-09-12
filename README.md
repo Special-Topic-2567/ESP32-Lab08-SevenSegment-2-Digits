@@ -10,3 +10,6 @@
 ## [ใบงานที่ 8-4 สร้าง Task สำหรับการนับเลขและ scan display](./Lab%208-4.md)
 
 ### เมื่อ work แล้ว ให้ถ่ายคลิปสั้น ๆ และแนบลิ้งค์ไปยังคลิปของทุกงานขึ้น และ pull request เมื่อทดลองเสร็จทั้ง repo.
+
+งาน
+https://github.com/AnchisaPhetnoi/8-1-Seven-Segment-2-Digits.git
