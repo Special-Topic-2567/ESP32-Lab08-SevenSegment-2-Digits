@@ -71,7 +71,7 @@ extern "C" void app_main(void)
 
 วิดิโอ ไฟล์
 
-https://vt.tiktok.com/ZS2uk4edc/
+[[https://vt.tiktok.com/ZS2uk4edc/](https://vt.tiktok.com/ZS2ukwrVA/)](https://vt.tiktok.com/ZS2ukwrVA/)
 
 4.3 สร้าง task สำหรับนับตัวเลข
 
@@ -140,7 +140,7 @@ extern "C" void app_main(void)
 
 ไฟล์ วิดิโอ
 
-https://vt.tiktok.com/ZS2uk4edc/
+[https://vt.tiktok.com/ZS2uk4edc/](https://www.tiktok.com/@ananu0001/video/7414213130475162898)
 
 
 
