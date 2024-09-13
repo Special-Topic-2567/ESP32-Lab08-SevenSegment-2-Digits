@@ -43,3 +43,6 @@
 เลข 1 จะแสดงที่ Seven-Segment Display ที่ 1 เป็นเวลา 1 วินาที
 เลข 5 จะแสดงที่ Seven-Segment Display ที่ 2 เป็นเวลา 1 วินาที
 
+ไฟล์วิดิโอ
+
+https://vt.tiktok.com/ZS2uk8pBP/
