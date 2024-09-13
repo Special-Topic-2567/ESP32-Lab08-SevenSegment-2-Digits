@@ -49,6 +49,7 @@ extern "C" void app_main(void)
 }
 ```
 4.2 ทดสอบ build และรันโปรแกรม จะต้องปรากฏเลข 00 บน seven segment
+![457804715_487273790777187_6707682876716440831_n](https://github.com/user-attachments/assets/52a96fbb-4c41-4496-9b0c-8bbfe2d05753)
 
 จากการทดลองข้างบน พบว่าจอกระพริบ เนื่องจากเราสร้าง task ที่มีความสำคัญเป็น idle หมายความว่าจะแสดงผลเมื่อ CPU ว่างเท่านั้น
 
@@ -63,7 +64,11 @@ extern "C" void app_main(void)
 ![ภาพ](https://github.com/user-attachments/assets/567a6df7-9d36-4b36-b964-c0e631592b53)
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
+![457730446_1751059359001088_1852619157765234998_n](https://github.com/user-attachments/assets/9ddc5172-0481-4926-a9cf-58bb75b158c7)
 
+วิดิโอ ไฟล์
+
+https://vt.tiktok.com/ZS2uk4edc/
 
 4.3 สร้าง task สำหรับนับตัวเลข
 
