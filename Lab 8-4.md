@@ -138,7 +138,9 @@ extern "C" void app_main(void)
 
 4.3.4 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
 
+ไฟล์ วิดิโอ
 
+https://vt.tiktok.com/ZS2uk4edc/
 
 
 
