@@ -17,4 +17,11 @@
 3.4 ถ้าปรากฏผลดังกล่าวแสดงว่า component นี้พร้อมใช้งานแล้ว ให้ push ขึ้นบน  github 
 
 
+วิดิโอ ไฟล์งาน
 
+https://vt.tiktok.com/ZS2uhEG2H/
+
+
+งาน https://github.com/AnchisaPhetnoi/8-1-Seven-Segment-2-Digits.git
+
+งาน https://github.com/AnchisaPhetnoi/Lab-07-Seven-segment-Component-develope.git
