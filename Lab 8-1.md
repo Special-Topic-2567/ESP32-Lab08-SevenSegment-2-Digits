@@ -85,7 +85,16 @@ while(1)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+![image](https://github.com/user-attachments/assets/549f14d4-cfe7-4caf-a594-ea9d0d08a235)
 
+![image](https://github.com/user-attachments/assets/b012cdc4-99a4-4690-afee-9720117f50e7)
+![image](https://github.com/user-attachments/assets/f6601676-7a91-4ead-90b9-9a1c2a919dfa)
+![image](https://github.com/user-attachments/assets/e6f6a54c-b27f-4aff-a444-4aa58d9073e6)
+![image](https://github.com/user-attachments/assets/ff3180bb-9afe-4acf-8140-5cb3df1cb579)
+
+link วิดีโอในไฟล์นี้
+
+https://vt.tiktok.com/ZS2uh6chW/
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
@@ -116,4 +125,18 @@ extern "C" void app_main(void)
 build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
+![image](https://github.com/user-attachments/assets/6febb060-1569-4c1b-8ad8-bfb5a56999b6)
+![image](https://github.com/user-attachments/assets/02dbc08f-ba81-464b-8925-c0bbf0419f6a)
+![image](https://github.com/user-attachments/assets/badc7013-cd46-42bd-b49f-b6741d3008ab)
+
+link วิดีโอในไฟล์นี้
+
+https://vt.tiktok.com/ZS2uhdd4q/
+
+
+
+งาน https://github.com/AnchisaPhetnoi/8-1-Seven-Segment-2-Digits.git
+
+งาน https://github.com/AnchisaPhetnoi/Lab-07-Seven-segment-Component-develope.git
+
 
