@@ -92,7 +92,9 @@ build, flash และ run โปรแกรม
 ![image](https://github.com/user-attachments/assets/e6f6a54c-b27f-4aff-a444-4aa58d9073e6)
 ![image](https://github.com/user-attachments/assets/ff3180bb-9afe-4acf-8140-5cb3df1cb579)
 
+link วิดีโอในไฟล์นี้
 
+https://vt.tiktok.com/ZS2uh6chW/
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
@@ -127,8 +129,9 @@ build, flash และ run โปรแกรม
 ![image](https://github.com/user-attachments/assets/02dbc08f-ba81-464b-8925-c0bbf0419f6a)
 ![image](https://github.com/user-attachments/assets/badc7013-cd46-42bd-b49f-b6741d3008ab)
 
+link วิดีโอในไฟล์นี้
 
-วิดิโอ
+https://vt.tiktok.com/ZS2uhdd4q/
 
 
 
