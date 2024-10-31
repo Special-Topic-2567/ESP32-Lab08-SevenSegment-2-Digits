@@ -86,6 +86,7 @@ build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
+### https://drive.google.com/file/d/1EGpCCU7s3pAkWQNVQ7Jsp7mgly7Q1CmI/view?usp=sharing
 
 1.1.6 แก้ไขไฟล์ main.cpp เป็นดังนี้
 
@@ -117,3 +118,4 @@ build, flash และ run โปรแกรม
 
 บันทึกวิดิโอของ LED seven segment และแนบ link วิดีโอในไฟล์นี้
 
+### https://drive.google.com/file/d/1StXUixd8wYNSDBBvXKpnQNtUxieECbvV/view?usp=sharing
