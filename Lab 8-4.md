@@ -63,6 +63,7 @@ extern "C" void app_main(void)
 
 4.2.3 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
 
+### https://drive.google.com/file/d/1Qh-vWkHwOkWz1G790fyF7yhRqX32cUeX/view?usp=sharing
 
 4.3 สร้าง task สำหรับนับตัวเลข
 
@@ -128,3 +129,5 @@ extern "C" void app_main(void)
 4.3.2 ทดสอบ build และรันโปรแกรม 
 
 4.3.4 เมื่อ work แล้ว ให้ถ่ายคลิป และส่งงานขึ้น github 
+
+### https://drive.google.com/file/d/1u4HJ6XGAeBiDpP3LG_Mj7kN0HrUsKEWS/view?usp=sharing
