@@ -1,0 +1,7 @@
+dependencies:
+  LED:
+    git: https://github.com/VisawaPRO/LED_Test.git
+    path: components/LED
+  SEVENSEGMENT:
+    git: https://github.com/VisawaPRO/SevenSegment.git
+    path: components/SevenSegment
